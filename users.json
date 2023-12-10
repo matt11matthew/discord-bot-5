@@ -1,0 +1,30 @@
+{
+  "users": {
+    "158445315412852736": {
+      "userId": 158445315412852736,
+      "displayName": "MatthewE#8330",
+      "level": 1,
+      "exp": 34,
+      "coins": 232,
+      "lastMessage": 1533073525071,
+      "shopData": {
+        "purchases": [
+          {
+            "type": "RankUpgradeShopItem",
+            "currentRank": "SwordFish",
+            "item": "RANK_UPGRADE",
+            "userId": 158445315412852736,
+            "purchaseDate": 1532903388106
+          },
+          {
+            "type": "RankUpgradeShopItem",
+            "currentRank": "Orca",
+            "item": "RANK_UPGRADE",
+            "userId": 158445315412852736,
+            "purchaseDate": 1532903396045
+          }
+        ]
+      }
+    }
+  }
+}

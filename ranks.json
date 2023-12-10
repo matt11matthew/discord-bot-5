@@ -1,0 +1,49 @@
+{
+  "ranks": [
+    {
+      "Orca": {
+        "name": "Orca",
+        "upgradeCost": 2000,
+        "roleName": "orca",
+        "color": 16777215,
+        "ranking": 1
+      }
+    },
+    {
+      "Megalodon": {
+        "name": "Megalodon",
+        "upgradeCost": 5000,
+        "roleName": "Megalodon",
+        "color": 12632256,
+        "ranking": 2
+      }
+    },
+    {
+      "Mutant Whale": {
+        "name": "Mutant Whale",
+        "upgradeCost": 25000,
+        "roleName": "mutantwhale",
+        "color": 8421504,
+        "ranking": 4
+      }
+    },
+    {
+      "Nuclear Submarine": {
+        "name": "Nuclear Submarine",
+        "upgradeCost": 10000,
+        "roleName": "NuclearSubmarine",
+        "color": 48896,
+        "ranking": 3
+      }
+    },
+    {
+      "SwordFish": {
+        "name": "SwordFish",
+        "upgradeCost": 1000,
+        "roleName": "swordfish",
+        "color": 53813,
+        "ranking": 0
+      }
+    }
+  ]
+}

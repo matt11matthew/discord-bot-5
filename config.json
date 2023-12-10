@@ -1,0 +1,16 @@
+{
+  "discord": {
+    "token": ""
+  },
+  "coinDelay": 12,
+  "staffRole": "STAFF",
+  "guildId": 472529312675921921,
+  "xpGiveAmount": 25,
+  "coinGiveAmount": 25,
+  "coinCost": 25,
+  "coinCostAmount": 5,
+  "rewardChannels": [
+    472529312675921923,
+    473202681163415590
+  ]
+}
